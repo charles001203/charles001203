@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charles Yu
-- 👀 I’m interested in data science, data analysis, computer science, and quantitative financial trading
-- 🌱 I’m currently learning SQL and web development
-- 💞️ I’m looking forward to pursue a summer internship in software engineering and product management
+- 👀 I’m interested in data science, data analysis, quantitative finance, and financial management
+- 🌱 I’m currently learning SQL and web scraping
+- 💞️ I’m looking forward to pursue a summer internship in data science and finance
 - 📫 How to reach me -> phone #: (347)502-5488 email: yuruntang1203@gmail.com
 
 <!---
