@@ -12,5 +12,5 @@ Aspiring Data Scientist/Machine Learning Engineer with a strong background in so
 * Computer Science Instructor | Los Angeles | 2020-2021
 
 Education
-* The University of Chicago | M.S.Applied Data Science | Expected Dec 2026
+* The University of Chicago | M.S.Applied Data Science | Expected March 2027
 * University of Michigan | B.S. Data Science and Business Administration | April 2023
