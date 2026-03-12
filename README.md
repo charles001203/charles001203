@@ -42,7 +42,6 @@ Aspiring **Data Scientist / Machine Learning Engineer** with a strong foundation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ### Data Science & Machine Learning
 
@@ -56,11 +55,6 @@ Aspiring **Data Scientist / Machine Learning Engineer** with a strong foundation
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-
-### Web & Software Engineering
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
 ### Tools & Platforms
 
